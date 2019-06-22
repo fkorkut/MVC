@@ -1,0 +1,8 @@
+
+<h1>Üyelik Dogrulama</h1>
+<p>Asagidaki linke tiklayarak e posta adresinizi dogrulayabilirsiniz.</p>
+
+<p><a href="#VerifyUrl#" target="_blank">Dogrulamak içn tiklayiniz</a> </p>
+
+<p>Sevgiler</p>
+<p>MyBlog</p>

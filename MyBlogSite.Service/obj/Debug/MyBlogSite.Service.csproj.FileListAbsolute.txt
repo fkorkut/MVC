@@ -1,0 +1,17 @@
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyBlogSite.Service.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyBlogSite.Service.pdb
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\AutoMapper.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyblogSite.Data.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyBlogSite.DTO.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\EntityFramework.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyblogSite.Data.pdb
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyblogSite.Data.dll.config
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\MyBlogSite.DTO.pdb
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\AutoMapper.pdb
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\AutoMapper.xml
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\bin\Debug\EntityFramework.xml
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\obj\Debug\MyBlogSite.Service.csprojAssemblyReference.cache
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\obj\Debug\MyBlogSite.Service.csproj.CoreCompileInputs.cache
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\obj\Debug\MyBlogSite.Service.csproj.CopyComplete
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\obj\Debug\MyBlogSite.Service.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.Service\obj\Debug\MyBlogSite.Service.pdb

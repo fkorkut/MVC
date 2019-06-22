@@ -1,0 +1,6 @@
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.DTO\bin\Debug\MyBlogSite.DTO.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.DTO\bin\Debug\MyBlogSite.DTO.pdb
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.DTO\obj\Debug\MyBlogSite.DTO.csprojAssemblyReference.cache
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.DTO\obj\Debug\MyBlogSite.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.DTO\obj\Debug\MyBlogSite.DTO.dll
+C:\Users\Firdevs\source\repos\MyBlogSite\MyBlogSite.DTO\obj\Debug\MyBlogSite.DTO.pdb
